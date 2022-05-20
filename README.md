@@ -1,6 +1,8 @@
 # 
 
-![Slide 16_9 - 4.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/844D7147-5F66-4505-AB59-5D914DA3510D/2C8E9DD3-9B21-422D-A73F-225C76117297_2/3I4x6415H8wBKgSLNUqKWbIsKBAbVWU6BkdoGTQYATEz/Slide%2016_9%20-%204.png)
+![Twitter post - 4](https://user-images.githubusercontent.com/67549402/169482033-d562b02a-b7f0-40ab-99d3-a51863cf9160.png)
+
+
 
 Working on Vito and Cerebellia!
 
