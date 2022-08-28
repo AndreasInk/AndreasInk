@@ -1,20 +1,9 @@
-# 
+# Andreas Ink
 
-![Twitter post - 4](https://user-images.githubusercontent.com/67549402/169482033-d562b02a-b7f0-40ab-99d3-a51863cf9160.png)
+Intern @RuneLabs
 
-
-
-Working on Vito and Cerebellia!
+Building Vito, PodPower, and WalkLock
 
 👋 I'm Andreas a university student and software dev looking to improve the world, especially in the health/tech sphere, with apps, ML models, and products.
 
-When my Dad was diagnosed with Parkinson's I built an app to help him manage his disease. As my Aunt developed freezing of gait, I developed an app based on research to better coordinate gait.
-
-In the mist of online school and coding, my neck began to hurt so I developed an app that uses AirPods' motion sensor to alert of bad posture.
-
-Entering into lockdown, I joined a team to develop an exposure notification app to alert people of possible exposures.
-
-When I see a problem, I strive to fix it.
-
-
-
+![Desktop - 20.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/2596E6C3-4F18-4526-AE4C-01E968C801CB/CF52CACF-293A-49C7-A0C3-0D9F025F8B21_2/vIAk4WDHNcic8cCHPydre5nx4ujI9Sy7ZuQxlYqdVMcz/Desktop%20-%2020.png)
