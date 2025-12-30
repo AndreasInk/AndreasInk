@@ -5,4 +5,5 @@ I'm an iOS developer and college student with a passion for creating innovative 
 
 iOS SWE @RuneLabs
 
-[More about me](https://bento.me/andreasink)
+[More about me](https://www.andreas.ink)
+
